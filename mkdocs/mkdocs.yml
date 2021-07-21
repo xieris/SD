@@ -1,0 +1,21 @@
+site_name: 'M.A.'
+site_url: ''
+theme: 
+  name: 'material'
+  language: 'zh'
+  # palette:
+  #   scheme: 'slate'
+
+# dev_addr: '0.0.0.0:8000'
+
+# copyright: Meta Project
+
+prebuild_index: true
+
+pages:
+- 关于项目: index.md
+- 市场调查: market.md
+- 时间轴: vision.md
+- 融资方案: finance.md
+- 团队组成: team.md
+- 历程记录: changelog.md
